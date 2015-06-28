@@ -1058,6 +1058,9 @@ ul.award-list li{
 	margin-top:39px;
 	float:left;
 }
+.fb-like iframe{
+	width: 50px !important;
+}
 .link-column p{
 	margin:16px 0px 31px 0px;
 	float:left;

@@ -21,7 +21,7 @@
                         <p class="footerLink">&copy; 2012 <a href="http://infocolumbia.com.br" title="Info Columbia">Info Columbia.</a>  Todos os direitos reservados. - Desenvolvido por <a href="http://kelebra.com.br" title="Kelebra Design">Kelebra</a></p>
                     </div>
                     <div class="fb-like">
-                    	<iframe frameborder="0" scrolling="no" style="border: medium none; overflow: hidden; width: 60px; height: 60px;" src="http://www.facebook.com/plugins/like.php?href=http://www.infocolumbia.com.br/&amp;layout=box_count&amp;show_faces=false&amp;width=66&amp;action=like&amp;colorscheme=light"></iframe>
+                    	<iframe frameborder="0" scrolling="no" style="border: medium none; overflow: hidden; width: 60px; height: 60px;" src="http://www.facebook.com/plugins/like.php?href=http://www.infocolumbia.com.br/&amp;layout=standard&amp;show_faces=false&amp;width=66&amp;action=like&amp;colorscheme=light"></iframe>
                     </div>
                 </div>            
             </div>
