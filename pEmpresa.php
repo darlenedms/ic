@@ -52,7 +52,7 @@
 
 <h3>Visão</h3>
 <p>
-Ser a melhor prestadora de serviços da Tecnologia da Informação.
+Ser uma das melhores prestadoras de serviço de Tecnologia da Informação.
 </p>
   
                         </div>
