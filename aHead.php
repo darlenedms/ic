@@ -47,7 +47,7 @@
             pauseOnPagerHover: 0 // true to pause when hovering over pager link
         });
 		$('.box-accesories ul').cycle({
-            timeout: 0,  // milliseconds between slide transitions (0 to disable auto advance)
+            timeout: 3000,  // milliseconds between slide transitions (0 to disable auto advance)
             fx:     'scrollHorz', // choose your transition type, ex: fade, scrollUp, shuffle, etc…
 			prev:   '#accprev', // selector for element to use as click trigger for next slide  
 			next:   '#accnext', // selector for element to use as click trigger for previous slide

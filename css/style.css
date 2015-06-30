@@ -1001,6 +1001,7 @@ ul.award-list li{
 	margin-top:-3px;
 }
 .acces-content img{
+	max-height: 105px;
 	margin-top:-10px;
 }
 #accessories-nav{

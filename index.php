@@ -101,21 +101,21 @@
                             
                             <div class="bottom-content">
                             	<div class="box-title2">
-                                    <h6>Trabalhos Realizados</h6>
+                                    <h6>Serviços</h6>
                                 </div>
                                 <div class="box-accesories">
                                 	<ul>
                                         <li class="acces-content">
-                                        	<p>CFTV Posto Br</p>
-                                            <img src="images/servicos/cftv.jpg" alt="CFTV Posto Br" />
+                                        	<p>Câmeras de Segurança (CFTV)</p>
+                                            <img src="images/servicos/cftv.jpg" alt="Câmeras de Segurança (CFTV)" />
                                         </li>
                                         <li class="acces-content acces-nojs">
-                                        	<p>CFTV Posto Br</p>
-                                            <img src="images/servicos/cftv.jpg" alt="CFTV Posto Br" />
+                                        	<p>Telefonia e PABX</p>
+                                            <img src="images/servicos/PABX.jpg" alt="Telefonia e PABX" />
                                         </li>
                                         <li class="acces-content acces-nojs">
-                                        	<p>CFTV Posto Br</p>
-                                            <img src="images/servicos/cftv.jpg" alt="CFTV Posto Br" />
+                                        	<p>Redes e Cabeamento</p>
+                                            <img src="images/servicos/cabeamentoEstruturado2.jpg" alt="Redes e Cabeamento" />
                                         </li>
                                     
                                     </ul>
