@@ -2892,3 +2892,79 @@ color:#FFFFFF;
 #column-support-right a {
 color: #868686;
 }
+
+@media (max-width: 960px) {
+	body {
+		box-sizing: border-box;
+	}
+
+	#header,
+	#logo-wrapper,
+	#logo,
+	#mainmenu,
+	ul#topnav,
+	.slideshow-wrapper,
+	.slide-content,
+	#slide-nav,
+	#content,
+	#midbox,
+	#midbox-inner-bg,
+	#page-title,
+	#bread-search-column,
+	#award-content,
+	#award-content h6,
+	ul.award-list,
+	.front-content,
+	#bottom-box,
+	#footer,
+	#product-highlight,
+	.highlight-flow,
+	#product-description,
+	ul.display,
+	ul.display li,
+	#wheretobuy-map,
+	ul#portfolio-filter,
+	#bottom-box-support,
+	.link-column,
+	#footer-menu1,
+	#footer-menu2,
+	.box-feature,
+	.box-news {
+		width: 100%;
+	}
+
+	#mainmenu {
+		background-image: none;
+	    background-color: #c86b03;
+	    margin-top: 10px;
+	    height: auto;
+	}
+
+	#midbox {
+		height: 100%;
+		box-sizing: border-box;
+		padding: 0 5%;
+	}
+
+	.front-content {
+	    box-sizing: border-box;
+	    padding: 0 5%;
+	}
+
+	.front-content .imgleft {
+		margin: 4px 0px 12px;
+		width: 100%;
+	}
+
+	.slide-text-video {
+		width: 290px;
+		word-wrap: break-word;
+		margin-left: 0px;
+	}
+
+	#bottom-container {
+		background-repeat: repeat;
+	    box-sizing: border-box;
+		padding: 0 30px;
+	}
+}
